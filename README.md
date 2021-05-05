@@ -1,2 +1,2 @@
 # pratice-repo
-Practice on making a repository
+This is a practice on making a repository. 
